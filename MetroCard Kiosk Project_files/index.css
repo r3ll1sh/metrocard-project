@@ -1,0 +1,39 @@
+/* Put your style information here! */
+
+body{}
+
+
+h1 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #005DAA;
+  background-color: #E9A617;
+  font-size:300%;
+  text-align: center;
+  margin: 0;
+}
+
+h3 {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+  color: #005DAA;
+  background-color: #E9A617;
+  font-size:100%;
+  text-align: center;
+  margin: 0
+}
+
+p {
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+}
+
+ul {
+  font-family: sans-serif;
+}
+
+li{
+  margin: 10px 0;
+}
+
+img{
+  margin: auto;
+  display: block
+}
